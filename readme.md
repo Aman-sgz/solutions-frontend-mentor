@@ -1,17 +1,24 @@
 ![portada frontend mentor](assets/frontend_portada.png)
 
+
+<h1 align= "center">Frontend Mentor Challenges</h1>
+
 <div align="center">
-    <h1>My solutions to Frontend Mentor Challenges</h1>
-    <h2>    
+    <p>    
     <a href="https://www.frontendmentor.io/challenges">
       Frontend Mentor Challenges
-    </a> help you improve your coding skills by building realistic projects.
-    </h2>
+    </a></span>
+     help you improve your coding skills by building realistic projects.
+    </p>
 </div>
 
+---
+<h2 align= "center">My solutions</h2>
+
+--- 
 ## Table of Contents
-- Newbie
-- Junior
+- [Newbie](#newbie) 
+- [Junior](#junior)
 
 
 ### Newbie
