@@ -12,16 +12,19 @@
     </p>
 </div>
 
----
+<div>
 <h2 align= "center">My solutions</h2>
+<p align= "center">*Updated every time I finished a challenge.</p>
+</div>
 
---- 
-## Table of Contents
+### Table of Contents
 - [Newbie](#newbie) 
-- [Junior](#junior)
+- [Junior](#junior)  
+- [Contact](#contact)
 
+---
 
-### Newbie
+#### Newbie
 
 Built with HTML, CSS and Javascript depends on the challenge.  
 
@@ -39,16 +42,23 @@ Built with HTML, CSS and Javascript depends on the challenge.
 - Pod request access landing page
 
 
-
-### Junior
+---
+#### Junior
 
 Built with HTML, CSS and Javascript depends on the challenge.  
 
 - [Pricing Component With Toggle](https://github.com/Aman-sgz/Pricing-Component-With-Toggle)
 
+---
 
+####  Contact
 
->**Updated every time I finished each challenge.*
+- Github Repositories [@Aman-sgz](https://github.com/Aman-sgz/)
+
+- Frontend Mentor [@Aman-sgz](https://www.frontendmentor.io/profile/Aman-sgz)
+
+- Twitter Aman [@Aman_arg](https://www.twitter.com/Aman_arg)  
+
 
 ---
 <div align="right">
