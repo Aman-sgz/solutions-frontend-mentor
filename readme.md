@@ -17,14 +17,14 @@
 <p align= "center">*Updated every time I finished a challenge.</p>
 </div>
 
-### Table of Contents
+## Table of Contents
 - [Newbie](#newbie) 
 - [Junior](#junior)  
 - [Contact](#contact)
 
 ---
 
-#### Newbie
+### Newbie
 
 Built with HTML, CSS and Javascript depends on the challenge.  
 
@@ -43,7 +43,7 @@ Built with HTML, CSS and Javascript depends on the challenge.
 
 
 ---
-#### Junior
+### Junior
 
 Built with HTML, CSS and Javascript depends on the challenge.  
 
@@ -51,7 +51,7 @@ Built with HTML, CSS and Javascript depends on the challenge.
 
 ---
 
-####  Contact
+###  Contact
 
 - Github Repositories [@Aman-sgz](https://github.com/Aman-sgz/)
 
