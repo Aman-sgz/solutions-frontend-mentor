@@ -1,10 +1,13 @@
 ![portada frontend mentor](assets/frontend_portada.png)
 
-# My solutions to Frontend Mentor Challenges
-
-[Frontend Mentor Challenges](https://www.frontendmentor.io/challenges) help you improve your coding skills by building realistic projects. 
-
-
+<div align="center">
+    <h1>My solutions to Frontend Mentor Challenges</h1>
+    <h2>    
+    <a href="https://www.frontendmentor.io/challenges">
+      Frontend Mentor Challenges
+    </a> help you improve your coding skills by building realistic projects.
+    </h2>
+</div>
 
 ## Table of Contents
 - Newbie
