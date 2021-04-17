@@ -31,15 +31,18 @@ Built with HTML, CSS and Javascript depends on the challenge.
 - [Profile card component](https://github.com/Aman-sgz/profile-card)
 - [Social proof section](https://github.com/Aman-sgz/social-proof-section)
 - [Single price grid component](https://github.com/Aman-sgz/single-price-grid-component)
-- Four Card Feature Section
+- [Four Card Feature Section](https://github.com/Aman-sgz/four-card-feature-section)
 - [Huddle landing page](https://github.com/Aman-sgz/Huddle-landing-page)
 - [FAQ accordion card](https://github.com/Aman-sgz/faq-accordion-card-main)
 - Article preview component
 - Coding bootcamp testimonials slider
-- Base aparell coming soon page
+- Base apparel coming soon page
 - Intro component with sign-up form
 - Ping single column coming soon page
 - Pod request access landing page
+- 3-column preview card component
+- Meet landing page
+- Stats preview card component
 
 
 ---
